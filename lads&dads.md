@@ -9,11 +9,23 @@ Where the friends know each other from is decided at the start, prior to charact
 
 
 ## Group Creation
-#TODO describe group creation (maybe a random d6 table)
+#TODO describe group creation (maybe a random d6 table), equivalent to ship creation
 
 
 ## Character Creation
 
+
+### Attributes
 Choose an adjective that would have described something about what you were like in the old days, when you were at peak lad.
 
 Choose an adjective describes somethign about you now, moving into dad-dom.
+
+### Stat
+Explain stat creation
+
+
+## Secnario generation
+#TODO create tables for generic re-union event
+
+## Character change
+#TODO Ideate some mechanics related to either giving up your lad-ness or dad-ness (not necessarily giving up your kids but maybe just square-ness, need to worskop)
